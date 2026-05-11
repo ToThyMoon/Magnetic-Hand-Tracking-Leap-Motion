@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package format="3">
+  <name>human_hand_description</name>
+  <version>0.0.1</version>
+  <description>A Human hand model as URDF</description>
+
+  <maintainer email="rhaschke@techfak.uni-bielefeld.de">Robert Haschke</maintainer>
+  <license>GPLv2</license>
+  
+  <author email="rhaschke@techfak.uni-bielefeld.de">Robert Haschke</author>
+  <author email="gwalck@techfak.uni-bielefeld.de">Guillaume Walck</author>
+  <author>Carlos Rosales</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <exec_depend>joint_state_publisher</exec_depend>
+  <exec_depend>joint_state_publisher_gui</exec_depend>
+  <exec_depend>robot_state_publisher</exec_depend>
+  <exec_depend>rviz</exec_depend>
+  <exec_depend>tf2_ros</exec_depend>
+
+  <export>
+  </export>
+</package>
