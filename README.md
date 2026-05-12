@@ -1,4 +1,6 @@
-To set up the environment, run 
+# Magnetic Hand Tracking with Leap Motion
+
+To set up the environment, run the following. I use python 3.8, though other versions may work.
 
 
 ```
